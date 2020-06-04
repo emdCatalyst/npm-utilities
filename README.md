@@ -14,7 +14,7 @@
 
 <h4>Github : <a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/forks/Mahdios/npm-utilities?style=social"></a><a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/stars/Mahdios/npm-utilities?style=social"></a><a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/watchers/Mahdios/npm-utilities?style=social"></a></h4>
 <h4>Npmjs :   
-  <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/bundlephobia/min/npm-utilities?label=Size"></a> <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/npm/dw/npm-utilities?label=Downloads"></a>
+  <a href="https://www.npmjs.com/package/npm-utilities"><img src="https://img.shields.io/bundlephobia/min/npm-utilities?label=Size"></a> <a href="https://www.npmjs.com/package/npm-utilities"><img src="https://img.shields.io/npm/dw/npm-utilities?label=Downloads"></a>
 </h4>
 
 <h4>Docs : <a href="https://npm-utilities.mahdios.gq">
