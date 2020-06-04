@@ -1,7 +1,7 @@
 {
   "name": "npm-utilities",
-  "version": "1.0.0",
-  "description": "The most complete, powerful and flexible npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping! Part of the dev-utilities series.",
+  "version": "1.0.1",
+  "description": "The most complete, powerful and flexible npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping!",
   "main": "index.js",
   "scripts": {
     "docs": "jsdoc -c ./.jsdoc-config.json"
@@ -27,6 +27,6 @@
     "request-promise": "^4.2.5"
   },
   "dependencies": {},
-  "homepage": "https://dev-utilities.mahdios.gq/npmjs",
-  "repository": "https://www.github.com/npm-utilities"
+  "homepage": "https://npm-utilities.mahdios.gq/",
+  "repository": "github:Mahdios/npm-utilities"
 }
