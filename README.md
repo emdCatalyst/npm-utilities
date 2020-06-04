@@ -7,7 +7,7 @@
   <a href="https://www.npmjs.com/npm-utilities">
       <img src="https://img.shields.io/badge/npmjs-mahdios%2Fnpm--utilities-red">
   </a>
-  <a href="https://www.npmjs.com/npm-utilities">
+  <a href="https://github.com/Mahdios/npm-utilities">
     <img src="https://img.shields.io/badge/Github-Mahdios%2Fnpm--utilities-lightgrey">
   </a>
 </div>
