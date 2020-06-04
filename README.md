@@ -1,23 +1,23 @@
 <div class="header" align="center">
   <h1>npm-utilities</h1>
   <p>The most <b>complete</b>, <b>powerful</b> and <b>flexible</b> npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping! Part of the dev-utilities series.</p>
-  <a href="https://www.npmjs/npm-utilities">
+  <a href="https://www.npmjs.com/npm-utilities">
     <img src="https://img.shields.io/hexpm/l/npm-utilities?label=License">
   </a>
-  <a href="">
+  <a href="https://www.npmjs.com/npm-utilities">
       <img src="https://img.shields.io/badge/npmjs-mahdios%2Fnpm--utilities-red">
   </a>
-  <a href="">
+  <a href="https://www.npmjs.com/npm-utilities">
     <img src="https://img.shields.io/badge/Github-Mahdios%2Fnpm--utilities-lightgrey">
   </a>
 </div>
 
 <h4>Github : <a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/forks/Mahdios/npm-utilities?style=social"></a><a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/stars/Mahdios/npm-utilities?style=social"></a><a href="https://www.github.com/Mahdios/npm-utilities"><img src="https://img.shields.io/github/watchers/Mahdios/npm-utilities?style=social"></a></h4>
 <h4>Npmjs :   
-  <a href=""><img src="https://img.shields.io/bundlephobia/min/npm-utilities?label=Size"></a> <a href=""><img src="https://img.shields.io/npm/dw/npm-utilities?label=Downloads"></a>
+  <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/bundlephobia/min/npm-utilities?label=Size"></a> <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/npm/dw/npm-utilities?label=Downloads"></a>
 </h4>
 
-<h4>Docs : <a href="dev-utilities.mahdios.gq/npm">
+<h4>Docs : <a href="https://dev-utilities.mahdios.gq/npm">
     <img src="https://img.shields.io/website?down_message=Offline&label=Status&up_color=green&up_message=Online&url=https%3A%2F%2Fdev-utilities.mahdios.gq%2Fnpm">
 </a></h4>
 
@@ -40,7 +40,7 @@ const { Package } = require('npm-utilities');
 const upjson = new Package('upjson');
 upjson.snippet().then(console.log).catch(console.error);
 ```
-3 - Be creative with the [docs](https://dev-utilities.mahdios.gq)!
+3 - Be creative with the [docs](https://dev-utilities.mahdios.gq/npm)!
 
 ## Contributing
 Any sort of contributing is **welcome** in the following cases:
