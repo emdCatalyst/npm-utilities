@@ -1,6 +1,6 @@
 <div class="header" align="center">
   <h1>npm-utilities</h1>
-  <p>The most <b>complete</b>, <b>powerful</b> and <b>flexible</b> npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping! Part of the dev-utilities series.</p>
+  <p>The most <b>complete</b>, <b>powerful</b> and <b>flexible</b> npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping!</p>
   <a href="https://www.npmjs.com/npm-utilities">
     <img src="https://img.shields.io/hexpm/l/npm-utilities?label=License">
   </a>
@@ -17,8 +17,8 @@
   <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/bundlephobia/min/npm-utilities?label=Size"></a> <a href="https://www.npmjs.com/npm-utilities"><img src="https://img.shields.io/npm/dw/npm-utilities?label=Downloads"></a>
 </h4>
 
-<h4>Docs : <a href="https://dev-utilities.mahdios.gq/npm">
-    <img src="https://img.shields.io/website?down_message=Offline&label=Status&up_color=green&up_message=Online&url=https%3A%2F%2Fdev-utilities.mahdios.gq%2Fnpm">
+<h4>Docs : <a href="https://npm-utilities.mahdios.gq">
+    <img src="https://img.shields.io/website?down_message=Offline&label=Status&up_color=green&up_message=Online&url=https://npm-utilities.mahdios.gq">
 </a></h4>
 
 ## Why?
@@ -40,7 +40,7 @@ const { Package } = require('npm-utilities');
 const upjson = new Package('upjson');
 upjson.snippet().then(console.log).catch(console.error);
 ```
-3 - Be creative with the [docs](https://dev-utilities.mahdios.gq/npm)!
+3 - Be creative with the [docs](https://npm-utilities.mahdios.gq)!
 
 ## Contributing
 Any sort of contributing is **welcome** in the following cases:
