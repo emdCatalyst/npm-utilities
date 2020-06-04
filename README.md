@@ -1,10 +1,10 @@
 <div class="header" align="center">
   <h1>npm-utilities</h1>
   <p>The most <b>complete</b>, <b>powerful</b> and <b>flexible</b> npm module to retrieve package, user and status data from npmjs.com programmatically with the power of web scraping!</p>
-  <a href="https://www.npmjs.com/npm-utilities">
+  <a href="https://www.npmjs.com/package/npm-utilities">
     <img src="https://img.shields.io/hexpm/l/npm-utilities?label=License">
   </a>
-  <a href="https://www.npmjs.com/npm-utilities">
+  <a href="https://www.npmjs.com/package/npm-utilities">
       <img src="https://img.shields.io/badge/npmjs-mahdios%2Fnpm--utilities-red">
   </a>
   <a href="https://github.com/Mahdios/npm-utilities">
