@@ -1,0 +1,14 @@
+{
+  "npm": {
+    "package": {
+      "main": "https://www.npmjs.com/package/",
+      "search": "https://www.npmjs.com/search?q="
+    },
+    "user": {
+      "main": "https://www.npmjs.com/~"
+    },
+    "status": {
+      "main": "https://status.npmjs.org/"
+    }
+  }
+}
